@@ -3,4 +3,15 @@
   <component name="AdditionalModuleElements">
     <content url="file://$MODULE_DIR$" />
   </component>
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map>
+          <unit-entry name="hibernate.cfg.xml" value="2a59fd48-4f3b-4b0e-a96e-01b8243bf4a9" />
+        </datasource-map>
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/VP_project/src/main/resources/hibernate.cfg.xml" />
+      </configuration>
+    </facet>
+  </component>
 </module>
